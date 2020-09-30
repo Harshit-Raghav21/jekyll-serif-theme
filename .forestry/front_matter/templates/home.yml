@@ -1,0 +1,22 @@
+---
+label: Home
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: description
+  label: description
+- type: file
+  name: intro_image
+  label: intro_image
+- type: boolean
+  name: intro_image_absolute
+  label: intro_image_absolute
+- type: boolean
+  name: intro_image_hide_on_mobile
+  label: intro_image_hide_on_mobile
